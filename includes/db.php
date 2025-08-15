@@ -1,9 +1,10 @@
 <?php
 // Database configuration
 $dbConfig = [
-    'host' => 'localhost',
-    'user' => 'root',
-    'password' => '',
+    'host' => '
+db.us-losa1.bengt.wasmernet.com',
+    'user' => 'f78c9e6676078000b13e3d5591fa',
+    'password' => '0689f78c-9e67-740f-8000-99a5578480c3',
     'dbname' => 'motor_oil_warehouse',
     'charset' => 'utf8mb4'
 ];
