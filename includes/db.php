@@ -25,10 +25,10 @@ function getPDO() {
             $pdo = new PDO($dsn, $dbConfig['user'], $dbConfig['password'], $options);
         } catch (PDOException $e) {
             // Log error
-            error_log("Database connection failed: " . $e->getMessage());
+            /*error_log*/die("Database connection failed: " . $e->getMessage());
             
             // Display user-friendly message
-            die("Database connection failed. Please try again later or contact support.");
+           // die("Database connection failed. Please try again later or contact support.");
         }
     }
     
