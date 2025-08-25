@@ -2,9 +2,9 @@
 // Database configuration
 $dbConfig = [
     'host' => 'db.fr-pari1.bengt.wasmernet.com',
-    'user' => '9783744976708000d247959185f9',
-    'password' => '068a9783-7449-7869-8000-d1e17dc4ac90',
-    'dbname' => 'dbSM4UCuf5LTNSLMKPv4xNif',
+    'user' => 'c5787c187e4d8000f0853848ca1c',
+    'password' => '068ac578-7c19-7e80-8000-be494c4df91f',
+    'dbname' => 'dbKnPi3nKKQdewJSxMJ7aPPT',
     'charset' => 'utf8mb4'
 ];
 
